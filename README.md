@@ -7,7 +7,7 @@ This assignment provides some practice on how to complete individual assignments
 Clone the repo to your laptop using the commands below, after you replace `aaa111` with the first part of your @ucsd.edu email address. Run this code in a terminal in VS Code attached to the RSM-MSBA docker container:
 
 ```bash
-username="aaa111";
+username="s2salas";
 git clone git@github.com:rsm-msba-25-26/rsm-gh-assignment-practice-rsm-$username ~/git/rsm-gh-assignment-practice;
 ```
 
