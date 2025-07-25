@@ -31,10 +31,10 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 
 Provide the information requested below:
 
-- Last name:
-- First (or preferred) name:
-- Favorite food:
-- Favorite recent Netflix movie or show:
+- Last name: Salas
+- First (or preferred) name: Sophia
+- Favorite food: Oatmeal
+- Favorite recent Netflix movie or show: The Sons of Sam: A Descent into Darkness
 
 ---
 
